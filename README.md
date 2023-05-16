@@ -66,8 +66,9 @@ python app.py
 The Flask development server will start running.
 
 ### Step 8: Submit Your FlaskMagic
-- Take a screenshot or provide a description of the Flask application running on your computer.
-- Submit the screenshot or description as instructed by your instructor.
+
+- Take a screenshot and provide a description of the Flask application running on your computer.
+- Submit the screenshot as instructed by your instructor.
 
 
 Congratulations! You have successfully installed Flask, set up a virtual environment, and created a magical Flask application. Enjoy the journey into the world of FlaskMagic!
